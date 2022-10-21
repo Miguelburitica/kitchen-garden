@@ -9,17 +9,17 @@ const routes = [
     component: HomeView
   },
   {
-    path: '/crops/:slug?',
+    path: '/cultivos/:slug?',
     name: 'crops',
     component: GeneralSection
   },
   {
-    path: '/fertilizers/:slug?',
+    path: '/fertilizantes/:slug?',
     name: 'fertilizers',
     component: GeneralSection
   },
   {
-    path: '/controls/:slug?',
+    path: '/control-manejo/:slug?',
     name: 'controls',
     component: GeneralSection
   }
