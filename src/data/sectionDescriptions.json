@@ -2,7 +2,7 @@
   {
     "title": "Cultivos",
     "description": "La agricultura es un arte milenario que tiene el propósito de cultivar la tierra mediante diferentes tratamientos y alternativas con el fin de obtener vegetales y frutos que puedan ser utilizados con propósitos alimenticios, medicinales y estéticos. Las actividades de cultivo que ocurren a menudo por la acción del hombre pero que también responden a procesos naturales dan como resultado cereales, frutas, vegetales, forraje y otros. Se entiende por cultivo a todas las acciones humanas que tienen el fin de mejorar, tratar y transformar las tierras para el crecimiento de siembras. Para muchos países del mundo esta actividad es su principal sustento económico y, al mismo tiempo, es, junto con la ganadería, la principal acción que da alimento para la población mundial.",
-    "view": "crops",
+    "view": "cultivos",
     "banner": "https://probelte.com/wp-content/uploads/2021/11/151_PROBELTE_Blog_Header-2_4.jpg",
     "types": [
       {
@@ -26,7 +26,7 @@
   {
     "title": "Fertilizantes",
     "description": "La agricultura es un arte milenario que tiene el propósito de cultivar la tierra mediante diferentes tratamientos y alternativas con el fin de obtener vegetales y frutos que puedan ser utilizados con propósitos alimenticios, medicinales y estéticos. Las actividades de cultivo que ocurren a menudo por la acción del hombre pero que también responden a procesos naturales dan como resultado cereales, frutas, vegetales, forraje y otros. Se entiende por cultivo a todas las acciones humanas que tienen el fin de mejorar, tratar y transformar las tierras para el crecimiento de siembras. Para muchos países del mundo esta actividad es su principal sustento económico y, al mismo tiempo, es, junto con la ganadería, la principal acción que da alimento para la población mundial.",
-    "view": "fertilizers",
+    "view": "fertilizantes",
     "banner": "https://probelte.com/wp-content/uploads/2021/11/151_PROBELTE_Blog_Header-2_4.jpg",
     "types": [
       {
@@ -50,7 +50,7 @@
   {
     "title": "Implementos de control y manejo",
     "description": "La agricultura es un arte milenario que tiene el propósito de cultivar la tierra mediante diferentes tratamientos y alternativas con el fin de obtener vegetales y frutos que puedan ser utilizados con propósitos alimenticios, medicinales y estéticos. Las actividades de cultivo que ocurren a menudo por la acción del hombre pero que también responden a procesos naturales dan como resultado cereales, frutas, vegetales, forraje y otros. Se entiende por cultivo a todas las acciones humanas que tienen el fin de mejorar, tratar y transformar las tierras para el crecimiento de siembras. Para muchos países del mundo esta actividad es su principal sustento económico y, al mismo tiempo, es, junto con la ganadería, la principal acción que da alimento para la población mundial.",
-    "view": "controls",
+    "view": "control-manejo",
     "banner": "https://probelte.com/wp-content/uploads/2021/11/151_PROBELTE_Blog_Header-2_4.jpg",
     "types": [
       {

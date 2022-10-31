@@ -3,35 +3,48 @@
     "slug": "habichuela",
     "name": "Habichuela",
     "description": "Es una planta herbácea que presenta su legumbre en más de 50 variedades de diversos tamaños y colores originaria de América central y América del Sur, nativa de Mesoamérica (México, Guatemala, Honduras y El Salvador),14​ anual, trepadora, de tallo pubescente o glabrescente cuando adulta. Las estípulas de las hojas tri-pinnadas son de forma lanceolada y de tamaño medio-centimétrico. Los folíolos son anchamente ovados u ovado-romboidal, los laterales, implantados oblicuamente, miden 4-15 por 2,5-10 cm y son pubescentes con base redondeada o anchamente cuneada, de bordes enteros y ápice acuminado. Las flores se disponen en racimos usualmente axilares, más cortos que las hojas.",
-    "scientific": "Phaseolus vulgaris",
-    "type": "crops"
+    "scientificName": "Phaseolus vulgaris",
+    "img": "https://elcampesino.co/wp-content/uploads/2019/07/cultivar-habichuelas.jpg",
+    "type": "cultivos"
   },
   {
     "slug": "hummus-solido",
     "name": "Hummus sólido",
     "description": "El HUMUS DE LOMBRIZ es un fertilizante orgánico y ecológico, resultado de la transformación, por parte de las lombrices rojas Californianas, del compostaje procedente de RESIDUOS VEGETALES, EXCRETAS DE BORREGO Y OTROS ANIMALES.",
-    "scientific": "",
-    "type": "fertilizers"
+    "scientificName": "",
+    "img": "https://www.renovablesverdes.com/wp-content/uploads/2021/08/que-es-el-humus-1024x576.jpg",
+    "type": "fertilizantes"
+  },
+  {
+    "slug": "estiercol",
+    "name": "Estiercol",
+    "description": "El HUMUS DE LOMBRIZ es un fertilizante orgánico y ecológico, resultado de la transformación, por parte de las lombrices rojas Californianas, del compostaje procedente de RESIDUOS VEGETALES, EXCRETAS DE BORREGO Y OTROS ANIMALES.",
+    "scientificName": "",
+    "img": "https://www.renovablesverdes.com/wp-content/uploads/2021/08/que-es-el-humus-1024x576.jpg",
+    "type": "fertilizantes"
   },
   {
     "slug": "habichuela",
     "name": "Habichuela",
     "description": "Es una planta herbácea que presenta su legumbre en más de 50 variedades de diversos tamaños y colores originaria de América central y América del Sur, nativa de Mesoamérica (México, Guatemala, Honduras y El Salvador),14​ anual, trepadora, de tallo pubescente o glabrescente cuando adulta. Las estípulas de las hojas tri-pinnadas son de forma lanceolada y de tamaño medio-centimétrico. Los folíolos son anchamente ovados u ovado-romboidal, los laterales, implantados oblicuamente, miden 4-15 por 2,5-10 cm y son pubescentes con base redondeada o anchamente cuneada, de bordes enteros y ápice acuminado. Las flores se disponen en racimos usualmente axilares, más cortos que las hojas.",
-    "scientific": "Phaseolus vulgaris",
-    "type": "crop"
+    "scientificName": "Phaseolus vulgaris",
+    "img": "https://elcampesino.co/wp-content/uploads/2019/07/cultivar-habichuelas.jpg",
+    "type": "cultivos"
   },
   {
     "slug": "habichuela",
     "name": "Habichuela",
     "description": "Es una planta herbácea que presenta su legumbre en más de 50 variedades de diversos tamaños y colores originaria de América central y América del Sur, nativa de Mesoamérica (México, Guatemala, Honduras y El Salvador),14​ anual, trepadora, de tallo pubescente o glabrescente cuando adulta. Las estípulas de las hojas tri-pinnadas son de forma lanceolada y de tamaño medio-centimétrico. Los folíolos son anchamente ovados u ovado-romboidal, los laterales, implantados oblicuamente, miden 4-15 por 2,5-10 cm y son pubescentes con base redondeada o anchamente cuneada, de bordes enteros y ápice acuminado. Las flores se disponen en racimos usualmente axilares, más cortos que las hojas.",
-    "scientific": "Phaseolus vulgaris",
-    "type": "crop"
+    "scientificName": "Phaseolus vulgaris",
+    "img": "https://elcampesino.co/wp-content/uploads/2019/07/cultivar-habichuelas.jpg",
+    "type": "cultivos"
   },
   {
     "slug": "habichuela",
     "name": "Habichuela",
     "description": "Es una planta herbácea que presenta su legumbre en más de 50 variedades de diversos tamaños y colores originaria de América central y América del Sur, nativa de Mesoamérica (México, Guatemala, Honduras y El Salvador),14​ anual, trepadora, de tallo pubescente o glabrescente cuando adulta. Las estípulas de las hojas tri-pinnadas son de forma lanceolada y de tamaño medio-centimétrico. Los folíolos son anchamente ovados u ovado-romboidal, los laterales, implantados oblicuamente, miden 4-15 por 2,5-10 cm y son pubescentes con base redondeada o anchamente cuneada, de bordes enteros y ápice acuminado. Las flores se disponen en racimos usualmente axilares, más cortos que las hojas.",
-    "scientific": "Phaseolus vulgaris",
-    "type": "crop"
+    "scientificName": "Phaseolus vulgaris",
+    "img": "https://elcampesino.co/wp-content/uploads/2019/07/cultivar-habichuelas.jpg",
+    "type": "cultivos"
   }
 ]

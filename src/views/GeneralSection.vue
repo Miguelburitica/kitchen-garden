@@ -1,22 +1,39 @@
 <template lang="pug">
 
-body.principal
-  .container(v-if="!isDetails")
-    h1 {{ sectionData.title }}
-    .banner
+main
+  article(v-if="!isDetails")
+    .article-section
       img(:src="sectionData.banner" alt="banner section")
-    section.description
+
+    .article-section.description
       p {{ sectionData.description }}
 
-    section.information
-      .ilustration
+    .article-section.information
+      h1 {{ sectionData.title }}
+      h3 {{ name }}
+      h4 {{ techName }}
+      label Tiempo para cosecha
 
-      .data-sheet
-        h3 {{ name }}
-        h4 {{ techName }}
-        label Tiempo para cosecha
+    .article-section.navigation
 
-  .container(v-else)
+  article(v-else v-for="item in itemsList" :class="{ active: $route.params.slug === item.slug, inactive: $route.params.slug !== item.slug }")
+    .article-section
+      img(:src="item.img" alt="ilustration of item")
+
+    .article-section.description
+      p {{ item.description }}
+
+    .article-section.information
+      h1 {{ item.name }}
+      h3 {{ item.type }}
+      h4 {{ item.scientificName }}
+
+    .article-section.navigation
+      .clickeable(@click="go('-', item.slug)")
+        i.material-icons-round arrow_back
+
+      .clickeable(@click="go('+', item.slug)")
+        i.material-icons-round arrow_forward
 
 </template>
 
@@ -30,7 +47,6 @@ export default {
   data () {
     return {
       sectionData: {},
-      isDetails: false,
       name: '',
       techName: '',
       titleSections: {
@@ -38,10 +54,16 @@ export default {
         fertilizantes: 'Fertilizantes',
         'manejo-control': 'Manejo y control'
       },
-      currentItem: {}
+      itemsList: []
+    }
+  },
+  computed: {
+    isDetails () {
+      return !!this.$route.params.slug
     }
   },
   mounted () {
+    this.itemsList = items.filter(item => item.type === this.$route.name)
     this.currentItem = items.find(item => item.slug === this.$route.params.slug)
     this.sectionData = sectionDataJSON.find(section => section.view === this.$route.name)
   },
@@ -51,25 +73,87 @@ export default {
   methods: {
     loadData () {
       this.sectionData = sectionDataJSON.find(section => section.view === this.$route.name)
+    },
+    go (action, slug) {
+      const item = this.itemsList.find(item => item.slug === slug)
+      const currentIndex = this.itemsList.indexOf(item)
+
+      if (action === '-') {
+        const nextSlug = this.itemsList[currentIndex > 0 ? currentIndex - 1 : this.itemsList.length - 1].slug
+        this.$router.replace({ name: this.$route.name, params: { slug: nextSlug } })
+      }
+
+      if (action === '+') {
+        const nextSlug = this.itemsList[currentIndex < this.itemsList.length - 1 ? currentIndex + 1 : 0].slug
+        this.$router.replace({ name: this.$route.name, params: { slug: nextSlug } })
+      }
     }
   }
 }
 </script>
 
 <style lang="less" scoped>
-.component {
-  display: flex;
-  flex-direction: column;
-}
 
-.banner {
+.clickeable {
+  cursor: pointer;
   display: flex;
-  border-radius: 8px;
-  overflow: hidden;
-  max-width: 100%;
+  align-items: center;
+  justify-content: center;
+  transition: .3s;
 
-  img {
-    width: 100%;
+  &:hover {
+    background-color: #8992db12;
   }
 }
+
+main {
+  flex-grow: 1;
+  position: relative;
+
+  article {
+    display: grid;
+    height: 100%;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 2fr 1fr;
+
+    position: absolute;
+    left: 0;
+    top: 0;
+
+    &.active {
+      transition: .2s ease-in-out ;
+    }
+
+    &.inactive {
+      transform: translateX(-100%);
+    }
+
+    .article-section {
+      height: 100%;
+      img {
+        width: 100%;
+      }
+
+      &.description, &.navigation {
+        border-left: 1px solid #8992db;
+      }
+
+      &.information, &.navigation {
+        border-top: 1px solid #8992db;
+      }
+
+      &.navigation {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr;
+        height: 100%;
+
+        i {
+          font-size: 70px;
+        }
+      }
+    }
+  }
+}
+
 </style>

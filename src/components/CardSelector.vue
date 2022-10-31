@@ -4,7 +4,7 @@ i.material-icons-round back_arrow
 .cards
   .card(v-for="card in cards" @click="this.$router.push({ name: card.type, params: { slug: card.slug } })")
     .ilustration
-      img(:src="card.src" :alt="`ilustration of ${card.name}`")
+      img(:src="card.img" :alt="`ilustration of ${card.name}`")
 
     .information
       .field
@@ -51,8 +51,8 @@ export default {
   border-radius: 8px;
   max-width: 450px;
   width: 100%;
-  box-shadow: rgba(17, 17, 26, 0.05) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
-  transition: .6s;
+  box-shadow: rgba(170, 170, 250, 0.08) 0px 4px 16px, rgba(170, 170, 250, 0.08) 0px 8px 32px;
+  transition: .2s;
   cursor: pointer;
 
   &:hover {

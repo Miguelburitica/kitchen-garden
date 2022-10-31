@@ -1,12 +1,11 @@
 <template lang="pug">
-nav.nav-bar
-  .container
-    router-link(:to="{ path:'/' }") #[h2 HC]
-    .nav-options
-      router-link(:to="{ path:'/' }") Inicio
-      router-link(:to="{ name: 'crops', params: { slug: '' } }") Cultivos
-      router-link(:to="{ name: 'fertilizers', params: { slug: '' } }") Fertilizantes
-      router-link(:to="{ name: 'controls', params: { slug: '' } }") Manejo y control
+nav
+  router-link(:to="{ path:'/' }") #[h2 HC]
+  .nav-options
+    router-link(:to="{ path:'/' }") Inicio
+    router-link(:to="{ name: 'cultivos', params: { slug: '' } }") Cultivos
+    router-link(:to="{ name: 'fertilizantes', params: { slug: '' } }") Fertilizantes
+    router-link(:to="{ name: 'control-manejo', params: { slug: '' } }") Manejo y control
 
 router-view
 
@@ -23,12 +22,20 @@ export default {
 </script>
 
 <style lang="less">
+* {
+  box-sizing: border-box;
+}
+
 #app {
   font-family: 'Lato', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: left;
-  color: #42476d;
+  color: #8992db;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow: hidden;
 }
 
 a {
@@ -55,24 +62,16 @@ a {
   max-width: 1100px;
 }
 
-.nav-bar {
-  position: fixed;
-  top: 0;
-  left: 0;
+nav {
   background-color: #9ae17b;
 
   width: 100%;
   height: 70px;
 
-  .container {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin: 0 auto;
-
-    max-width: 1100px;
-    width: 90%;
-  }
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .nav-options {

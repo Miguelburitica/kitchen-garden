@@ -10,17 +10,17 @@ const routes = [
   },
   {
     path: '/cultivos/:slug?',
-    name: 'crops',
+    name: 'cultivos',
     component: GeneralSection
   },
   {
     path: '/fertilizantes/:slug?',
-    name: 'fertilizers',
+    name: 'fertilizantes',
     component: GeneralSection
   },
   {
     path: '/control-manejo/:slug?',
-    name: 'controls',
+    name: 'control-manejo',
     component: GeneralSection
   }
 ]
