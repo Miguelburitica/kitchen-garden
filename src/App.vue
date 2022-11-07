@@ -34,8 +34,8 @@ export default {
   color: #8992db;
   display: flex;
   flex-direction: column;
-  height: 100vh;
   overflow: hidden;
+  flex-grow: 1;
 }
 
 a {

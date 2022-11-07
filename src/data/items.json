@@ -24,27 +24,109 @@
     "type": "fertilizantes"
   },
   {
-    "slug": "habichuela",
-    "name": "Habichuela",
-    "description": "Es una planta herbácea que presenta su legumbre en más de 50 variedades de diversos tamaños y colores originaria de América central y América del Sur, nativa de Mesoamérica (México, Guatemala, Honduras y El Salvador),14​ anual, trepadora, de tallo pubescente o glabrescente cuando adulta. Las estípulas de las hojas tri-pinnadas son de forma lanceolada y de tamaño medio-centimétrico. Los folíolos son anchamente ovados u ovado-romboidal, los laterales, implantados oblicuamente, miden 4-15 por 2,5-10 cm y son pubescentes con base redondeada o anchamente cuneada, de bordes enteros y ápice acuminado. Las flores se disponen en racimos usualmente axilares, más cortos que las hojas.",
-    "scientificName": "Phaseolus vulgaris",
-    "img": "https://elcampesino.co/wp-content/uploads/2019/07/cultivar-habichuelas.jpg",
-    "type": "cultivos"
-  },
-  {
-    "slug": "habichuela",
-    "name": "Habichuela",
-    "description": "Es una planta herbácea que presenta su legumbre en más de 50 variedades de diversos tamaños y colores originaria de América central y América del Sur, nativa de Mesoamérica (México, Guatemala, Honduras y El Salvador),14​ anual, trepadora, de tallo pubescente o glabrescente cuando adulta. Las estípulas de las hojas tri-pinnadas son de forma lanceolada y de tamaño medio-centimétrico. Los folíolos son anchamente ovados u ovado-romboidal, los laterales, implantados oblicuamente, miden 4-15 por 2,5-10 cm y son pubescentes con base redondeada o anchamente cuneada, de bordes enteros y ápice acuminado. Las flores se disponen en racimos usualmente axilares, más cortos que las hojas.",
-    "scientificName": "Phaseolus vulgaris",
-    "img": "https://elcampesino.co/wp-content/uploads/2019/07/cultivar-habichuelas.jpg",
-    "type": "cultivos"
-  },
-  {
-    "slug": "habichuela",
-    "name": "Habichuela",
-    "description": "Es una planta herbácea que presenta su legumbre en más de 50 variedades de diversos tamaños y colores originaria de América central y América del Sur, nativa de Mesoamérica (México, Guatemala, Honduras y El Salvador),14​ anual, trepadora, de tallo pubescente o glabrescente cuando adulta. Las estípulas de las hojas tri-pinnadas son de forma lanceolada y de tamaño medio-centimétrico. Los folíolos son anchamente ovados u ovado-romboidal, los laterales, implantados oblicuamente, miden 4-15 por 2,5-10 cm y son pubescentes con base redondeada o anchamente cuneada, de bordes enteros y ápice acuminado. Las flores se disponen en racimos usualmente axilares, más cortos que las hojas.",
-    "scientificName": "Phaseolus vulgaris",
-    "img": "https://elcampesino.co/wp-content/uploads/2019/07/cultivar-habichuelas.jpg",
-    "type": "cultivos"
+    "slug": "rkealey0",
+    "description": "Accidental malfunction of other gas, air or spring-operated gun, subsequent encounter",
+    "scientificName": "Blick-Torp",
+    "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJMSURBVBgZpcFLiI1hGMDx//ed78yZ4RzTzGHcRpEZUpqajbsmaYpcdpRYYGEhbGwUG2VhMwslScnCwoZSChE2khW5LliImDFk3M4333nf93mfB6VsFDW/X2JmTETKBKVMUHb04kfjL0SVEBQnQghQiFE4wQWh8EYelKIQMn5a2tvGH4aoEaMhakg0ghhBlRCMIEqIihflzO1RMn77Ni5EBVFDouKjEUQJYnhRnER8MJwoPiid1YyiIaT8pGYM9tVwIbKhv8bW5R3sWNnJzoE6KxdWackStq2YSmtLwu41XTRcZNxFtAikToQgSiVLcEGplFNO3/xAksDQlRG662UWzKwwu7OFyS0pc6dVyJuRIiiaC1nuhKYolXLC9tV1sjQhd4KZ0XARVVjaW8WAZlAazci4j7iQYnkkaxSG80rhlRNXRzmwfjrjTcWAvBmJZjx5XfBm5DqjI9c4cvYLk0OTsU8DqOsn+1p4mr4NM8idYAYNJ5hB7iKqxrmb5+mZ84DBgSV0d/Zy59ll7j+9QH36C5K1x57bpv4O3o45fFCcKC4YXhQnihelXQ+yZeM6KKVsXrSfoVt7KJFy4dI10m/fhcJHaq0lapNKtLeV6KiWqFdLTKtmdE0p86UxSjmpsnnRfn45uPYM87v6SNJANlYETl59hwVDnWJesKCYi+AVi0rP4s88G77Ho+G7HBo8x/Ebu2gtVTAtk5gZ/7Js36xj3fPaD6/oW0XvjH5evn/Ivcd3efvq61BiZvyPZftmHQf2AjXgO3Dq/snhQz8A9uxhvZij7OIAAAAASUVORK5CYII=",
+    "type": "fertilizantes",
+    "name": "Gambel's quail"
+  }, {
+    "slug": "rspurway1",
+    "description": "Poisoning by emetics, undetermined, initial encounter",
+    "scientificName": "Batz, Swaniawski and Hackett",
+    "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFESURBVBgZBcG9S9RxAAfg565DI51uCBocpGhoqM1VaAjByXAImvoXDtr6D4JAaG2oyXtpKJGEltYcGntDErEhEI3kvDP7fb+fnqcVAAAAQAeg39XLqsVcyl62bTw8AkTE5tqb8WHOU1MzzUFej1+uR4SIzeWPOcu/TPI7JznNecZ5ngcrEa3YnJ/7fHehY6Kqqiq+eedgP7cH4zZ6dxZmnamKoiqGnpjTXcxj2tSVq/4qGkXRGOlrfDcvK7TJ0qypoiiKob5G9cWsukSHoCiqamQgiiqKoE12p2YUxVBf0aiK6ybs0qbu/HJZMTRQFEWjuOFU3aFNnn06vLCnr1EURbHq1PF+ntIKXiz/+fDTFV/90HHNTWdOTO69fU8rYH0tr7rzc2YUF8aOx3m0NYJWAPe76VmttzK1bzsbW0dAKwAAAID/tYu/URIDsoEAAAAASUVORK5CYII=",
+    "type": "control-manejo",
+    "name": "Siskin, yellow-rumped"
+  }, {
+    "slug": "dpryer2",
+    "description": "Nondisplaced fracture of anterior wall of unspecified acetabulum, subsequent encounter for fracture with delayed healing",
+    "scientificName": "Witting-Ankunding",
+    "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAH0SURBVDjLxdPPS9tgGAfwgH/ATmPD0w5jMFa3IXOMFImsOKnbmCUTacW1WZM2Mf1ho6OBrohkIdJfWm9aLKhM6GF4Lz3No/+AMC/PYQXBXL1+95oxh1jGhsgOX/LywvN5n/fN+3IAuKuEuzagVFoO27b1/Z+BcrnUx4otx7FPLWsJvYpIM2SS9H4PqNWqfK1W8VKplHlW/G1zs4G9vS9YXPx4CaDkXOFES4Om4gceUK2WsbZWR72+gtXVFezsbKHVamF7ewtm/sMFgBJZhd6pvm4kDndaAo2KOmt5Gfv7X9HpdNBut9FsNmFZFgPrMHKZc4DkjHyi6KC3MZNehTOuGAH5Xx5ybK/Y3f0Mx3Fg2zaKxSIMw2DjT0inNQ84nogcUUQJHIfZquNT3hzx46DBALizg2o01qEoCqLRKERRRDAYhKYlWRK/AJdCMwH2BY28+Qk8fg667wdXKJjY2FiHaeaRzWYQCk1AEASGzSCZjP/ewtik5r6eBD0dM+nRSMb1j4LuPDnkFhZymJ/PsmLdazmV0jxEkqKsK+niIQ69mKUBwdd9OAx3SADdHtC53FyK12dVXlVlPpF4zytK7OgMyucNyHLs8m+8+2zJHRwG3fId9LxIbNU+OR6zWU57AR5y84FKN+71//EqM2iapfv/HtPf5gcdtKR8VW88PgAAAABJRU5ErkJggg==",
+    "type": "fertilizantes",
+    "name": "Magistrate black colobus"
+  }, {
+    "slug": "rabramino3",
+    "description": "Laryngeal hypoplasia",
+    "scientificName": "Hayes and Sons",
+    "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJMSURBVBgZpcFLiI1hGMDx//ed78yZ4RzTzGHcRpEZUpqajbsmaYpcdpRYYGEhbGwUG2VhMwslScnCwoZSChE2khW5LliImDFk3M4333nf93mfB6VsFDW/X2JmTETKBKVMUHb04kfjL0SVEBQnQghQiFE4wQWh8EYelKIQMn5a2tvGH4aoEaMhakg0ghhBlRCMIEqIihflzO1RMn77Ni5EBVFDouKjEUQJYnhRnER8MJwoPiid1YyiIaT8pGYM9tVwIbKhv8bW5R3sWNnJzoE6KxdWackStq2YSmtLwu41XTRcZNxFtAikToQgSiVLcEGplFNO3/xAksDQlRG662UWzKwwu7OFyS0pc6dVyJuRIiiaC1nuhKYolXLC9tV1sjQhd4KZ0XARVVjaW8WAZlAazci4j7iQYnkkaxSG80rhlRNXRzmwfjrjTcWAvBmJZjx5XfBm5DqjI9c4cvYLk0OTsU8DqOsn+1p4mr4NM8idYAYNJ5hB7iKqxrmb5+mZ84DBgSV0d/Zy59ll7j+9QH36C5K1x57bpv4O3o45fFCcKC4YXhQnihelXQ+yZeM6KKVsXrSfoVt7KJFy4dI10m/fhcJHaq0lapNKtLeV6KiWqFdLTKtmdE0p86UxSjmpsnnRfn45uPYM87v6SNJANlYETl59hwVDnWJesKCYi+AVi0rP4s88G77Ho+G7HBo8x/Ebu2gtVTAtk5gZ/7Js36xj3fPaD6/oW0XvjH5evn/Ivcd3efvq61BiZvyPZftmHQf2AjXgO3Dq/snhQz8A9uxhvZij7OIAAAAASUVORK5CYII=",
+    "type": "fertilizantes",
+    "name": "Squirrel, nelson ground"
+  }, {
+    "slug": "bmccluney4",
+    "description": "Preterm newborn, unspecified weeks of gestation",
+    "scientificName": "Lueilwitz, Glover and Trantow",
+    "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKZSURBVDjLpVPdS5NRGP+97tVpw9nm5tpShiSsFhMMImiCQlAOk+im7Ma6UKK86g+oCMKwgi66CLuQ7rqqBRVRQS2aFIFeCA7xQjC3qbkcus/345zTc5aNoqALX3h4znPO+X085z1HEUJgJ18Ndvip84+uJBljezlnYMykMGCaMvRqNgw51t+cvBk78ReBBLeEIxCCQTAOwU1IMkFkgsh4JZuYeT55/J8OpAonkLaZrmzkspZAmUldhtXuxUTjbTy48Z62kFOTvBrm5fjd/oeqtOgJDvy3VxZ7h2vnDoFxgeR63nL/yfQtmv5JcPXlIubTOTCdw9RJgcLUWLXe77OBFKGbAgf9DnS1O3Dv8WdnpQXD0HDRHUexZmnbskEW9ap9We9q9mMkeRj2BgVLq1kEWh0wdANVAk6nzPTSNtCoAmUW2+chAYbJkUjmUSJXVQJdL1eAdY2eyomXS2UklvJIFRvhavFiNb2II5YSFL2A2LNJeFua8WVmA62qhp6eHps6Gf8G8XGC/gQHFxyszoFj/WcwdOEsCoUCksl9eP3qBbpqp3FqYBgN9fVYWVlBvXUab7/bryvyKgeDwcVwONxeLBbhdrvF+eFh5c7YGLa2toTP51NCoVAFlMlkkE6nYbfbMTo6img0uvnrKg9NTU19mpub++p0Ok05MTs7+yGfz5cGBwfR3d2NSCSCvr4+5HI5JtfknqamJqsqB4lEIk7paGdn5yVSGKPx7kAgoGWz2drx8XHYbLaKimzJYrFwuSbrVCpVVn5/jdTKgY6Ojqe9vb172trauKqqzrW1NSwsLMBqtcLv98Pj8dC7MDeWl5drYrHY6h8ExGzxer0hUoxS724CWeSLpd5HpKDL5YpSrtU0jZHTdXJ0+gdZxaA90+h/PAAAAABJRU5ErkJggg==",
+    "type": "cultivos",
+    "name": "Mara"
+  }, {
+    "slug": "pfaust5",
+    "description": "Episcleritis periodica fugax",
+    "scientificName": "Daugherty-Kub",
+    "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJNSURBVDjLpZNLSNVhEMV/f7UCy+iaqWkpKVFqUIlRUS3SHkSPRYugVbuCaFPrEgIxsKCFix5QtIsWraIIS5MQa6G1CTN7iKa3SAyt7P7v983M1+Kqm4oCB4bDmcXhzBkmCiEwl8pijpXTf+v0iKqWmimqgqpHxCPiZtF7h4hrO9DUufc3AVUtLdy2jxCUoEYwwUwJKgT1mApBhRf3bu75owMRj5mQnkwSVDDxmPoMisPEsWDxcq7ltXDl/JOgoqioipeTXZf2X88RcRRVH/znrtrZQePRWtQCI2M/slvv9l4AMgLn7n+gP/kddYY4RZ0iaZ3la0sWIl5wEqgpT7BxVYLLt5/nA+R4n+bEsi5+Zg1NW/botPUZnru0nNb8du70THFs3gNqyorxzmfO6H0a8w51KWS61aVQF6MuxnyMiScWx4qCKlo7d9LzbnRWIMe5GBXH/LyiTOKSSf7qtzZCtseZ4Cb6Kc1fTVXxZr7HU1zs2ITqWQCiI7s2hBAMMyMEI0xj6fEEu2uOocFQU4zA58kREgsLefbhMb1DT4k1vSTrzqOX0aukH0xUbqFkXT39Y1GqvHYfsTg0GEPjbxkcH+D9WB8TqXGGvr5nw8odrCmpI5YwHoUQqK6u3g60ACngBnCq9gxbD60/gZgipmgwPk0Ok7+omJcfu3n0+uFXpzREf3umw1crLHYOZ45YHJUFNdGWij30DHfTPtD22QkNyebQF/3vN65rypqqK6vP7RxoH3VGQ7I5vAH4b4GKxmhKLTs3ZVrxpTkMzsx/ARtuob3+yA7oAAAAAElFTkSuQmCC",
+    "type": "control-manejo",
+    "name": "Crow, american"
+  }, {
+    "slug": "mverrier6",
+    "description": "Other complications specific to multiple gestation, first trimester",
+    "scientificName": "Lowe, Gislason and Harris",
+    "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHcSURBVDjLhZPZihpREIb7JeY2wbcQmjxZbrIQ5nKSIYQ8gyuKOwqKihuKKy5xnJ5GRzteTIjTp51e+HPqDDaKSy7qoqvq/+qvYykNBgP0+310u110Oh202220Wi00m000Go0rANKlkHq9HhzHOYr5fC4g1Wr1IkSiySRQVVVMVhTFhVCOu0CpVDoLkcgyNdM0StTr9eZms4FlWSJPwEqlgnw+fxIi0dRdIxe/cMuqYRgw2SO2v9OiNpvNUCwWkcvljiASTd5Ztm0bJLa3GvTpZ+iT9xySErXpdEoukE6nDyAS35Gt12vRZJomTP0R+q9PYPc3MB6+C9AOMplMyAXi8bgLkWq12ju+I9M0TTRtnzp45pOZ8g2G+vMIMh6PyQUikYiACEq5XJb5jmy1Wr1C/vQ55CMM5XYPwr+1hKgPh0NygVAodOXuUigUZL4jWy6Xx5CHH2B313gaXcOxLeEimUwiEAi8PXhRvp+czWbZYrHYg3yAfvcFf6e3eDE2+2KPu8J+ZDIZOZVKMbrEV0gPz/df4ViGK/b7/R73EU8dRyKRkGOxGKNL3P3EJOb5A/FZAEU0GvXyl2Z0YKPR6KT4IoAiHA57g8EgI7HP5/OcPOX//V35VC8XvzlX/we1NDqN64FopAAAAABJRU5ErkJggg==",
+    "type": "control-manejo",
+    "name": "Frog (unidentified)"
+  }, {
+    "slug": "rdrinkhall7",
+    "description": "Other foreign object in trachea causing asphyxiation, subsequent encounter",
+    "scientificName": "Dach-O'Hara",
+    "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAISSURBVDjLfZM9a1RBFIaf2d27H1kLTRUQEtAUojYpxA/yA1JYCKmtxE60XSxSxCb/wCJiY2NpK1GwCIEgpBBCQK1CihVMcM3m7p2ZM+dY3E3YuKsDw5kZ5nnn5Zwzzsw4HenpE+P6TWRjAxPBUkJjRIcxW1rCPnyi/fG9O2VqjIxRyEZAFSn3IliIo8hfAlEwEdR7VKQUEjlb1yYIVM4JhIh5D3NzJO9R70nek4oCNz+P5gMshP84CHHVHe6tNG71ad2tQ606PHdIXhA+75JCXP2nQP3+/gFS6ccbDy/4+iwpVTApcJKTDfZpVt723b10MMq40yrYmzu3wb0LC89nfGig+S+kOMFigUkAV6XRdEx9fdkl2oPs2e72+Rwk6ci1RzNeWqS8RwolaDGgRY70fpIf9Shml2f0OHXGkmgqi7F9BR0cl6AEkIhGj0lA4wD5fchApsCnxfEcqE2rVbFYoBKwFFEp4RSGIr4geUGTm55QRiubSOKZ9bOZhlECljymE/rA1I5c7IOm89bFl3mIHlAQD5GjcQcpbtZ6e7hahqZwznr5cqKStWj6H0hgc9zBQNdqO6+7mcupZE1QxVL5JzCj2mrTaGfUvmx1TStrY30AEF7MP0ZYDQvLM0X9MkkU8znEnPrJPrWdra6KW7m4/m19ogBA0bl6W/vSIeqimpsmgZk7UmFT69napVfft0fv/wFUf661fqqpcgAAAABJRU5ErkJggg==",
+    "type": "cultivos",
+    "name": "Ornate rock dragon"
+  }, {
+    "slug": "emorrid8",
+    "description": "Toxic effect of formaldehyde, accidental (unintentional), initial encounter",
+    "scientificName": "Brekke LLC",
+    "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFlSURBVBgZpcGxTpNhGIbh+20+DUkTRhkcNLBIOmG6+Q+egg4cgWExhDi5sDm5SErCoB4BDB4KjnVTBpooCTKUOvx9n4d+ISQOQNL0usI2i4hX7w7fNi/7H88n7tqAhCVSiWVk4Uxk40xSYvlhezkcnr7/9mnzoPRf9PcfLHU7K0vMo3s5yX3goExadybnY+b1r3WHmeI0u68fM6/twQlVsYVtTGUwEMH342Pu8nxjg1RSFWwyk63BL2583XlK1TQNtxmPx2iaVCWVyObz9hMIgwPZ3EcSSlEVyyhFBFjMGML0ej0uLv5i858ATABSUhUpkRJzLZgxDH8Mucuz9XUkUZVp25KZ7Hz5zY3B1gpV0zTc5uzsD9N2SlWcQhJ7bx4BppLEfTKFJaoiCcmACMBcW11dYzQaAQFhgsCGCIMD2VTl9OfJ0YfDdlOZKEVmIolsWyQhGytxGllYQqI6YiZss4gOC7oC3Q3wOtNMt7AAAAAASUVORK5CYII=",
+    "type": "cultivos",
+    "name": "Striped hyena"
+  }, {
+    "slug": "mfulk9",
+    "description": "Passenger of military vehicle injured in nontraffic accident, initial encounter",
+    "scientificName": "Robel-Kulas",
+    "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAI+SURBVDjLtZPPaxNBFMcX+leoIB4VFFQEcXtIMXpILbQhYprUmGyym2SbX00aSSCGWrfLhmSTTQI9tDGBtlgIIqVFBNec7NGLaJGCvczBQKG5eGi8fZ1dbVHagiIOfHkzj3mf951hhgHA/IuY/wYoFgsuWZa+/DWgVCoO0GJJUeR9SZrFcUVETPGEi5w2AZVKma1UVFOqWmJp8edms4G1tReYmXl0BEBCU7k9MQbiDLwzAeVyCfV6DbWahmpVw8rKEtrtNpaXl5DNPPwNQIIJgTwIX+y6A+hNcCC3HRFquYDNzbfodDrQdR2tVguSJFFgDalk/BBA+Di/J0RA7vqyZMQV7zncIIN3thl6VqyuPoOiKJBlGfl8HqlUis7nEIuJJmB3zL1D3IJ110W7DjvNHGGHQa5awRgX1WgsQBAEeL1eOBwO2Gw2iGKIKngA6BG7x0ojyNDoD8DlmyAXBsHkclksLi4gm80gkYjDbh+DxWKhMA9CocDhEWr58Y10dRzByijuPxn61nSxIOeubTPpdBLT0wlaHDEtR6OiCeE4L3XFmYCwZn88+5zDy615vO/q0N5Mwqldgv/e2Q6TnIqykckwGw7zbDDoZwXBt2OAMpkUeN5nAjzKrf76xyrWP9WNNdSOAK0TwvXIqf6RR0K7DvABn0y1fwAYyV3Bq62n+HVsfJg3ACc/UQqaoOoa8xvRM/2S7oeim0Aor30nOzhOdOOcQz2Pss6bnY1orGle/eNfRzcXqL4atn/GgpH/DtOZnBuaeVfLAAAAAElFTkSuQmCC",
+    "type": "control-manejo",
+    "name": "Goose, spur-winged"
+  }, {
+    "slug": "wvauda",
+    "description": "Fracture of alveolus of mandible, unspecified side",
+    "scientificName": "Turcotte, Balistreri and Boehm",
+    "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJ2SURBVBgZBcFLiJVlGADg5/3+b87cbLyFNBJ4oexGQYqIi6hFQambgohoE0aLUqGCaBcuonWLUFe1CIJolWCLaiK1C0FUREpRBgmWNpqi4XjOnP97e57ITI+8fuLZ6bnJZ0rYhikECGSQzbi1M1cu5UJcvfzqycN7RgCRmXa9+dXJ9w5su6uUWJV0EoBMSIv/LXv/uyvOnx1eP/3zL2u+PLxnCBVKF3cMarfq1D+6EkGQjT6b8TgtLfceuv0mO7ZU37bFmWx3Xn5w/7HVx9/ePSwQESsysxt0xUShBl2hCyIoAs383MCe7fM23jY5Xedm34UCSUBBCUqEEqFEKBFKF/7+d8mGFcvuXhOe37lWN9E9CRUgk9oRQkZofVJC7Rhk8fulNGpjrY08sHlS1DKGCpkkahQpJaKEQDayKwwoLbTWSYUooEKiIYIQEolsTHSAKKIPWVJDJlChjcmkIZCZoBS0ULskgySFvtE3oEJrKTNJUgKQQAj950eMFg5ZPvebU+vW2zH9WGWnCn2jT7LRACRoyY2FI6ZOfeC+p54zuekeSz99YubkQv304YkDFdo4tUwHfxgJqQWZQSMjPX30Lbv3vmDqzBeceMPMylU2b9jg+1/z5Qrjca/vmZ+bsHVd0ZI+6YOWrL7yp6lbNrHrFQD14LyuxcYK42Fr49Zy1ItvzvVapBSgJetXzrv+4zGzR180XDrvOq5d7fSdvyos3+gvzA66m1+7dzSbmUXSACunq4vn9zt9/B23rp5WuwnXFsf+uNBJ/aHITNv3fbZvvJyPR8T9KWcAJImUHh0eq1sXP+zWDi/G1cHc8Oxgy8cvffT1E/8D2iAtJW5RUGAAAAAASUVORK5CYII=",
+    "type": "fertilizantes",
+    "name": "Anteater, australian spiny"
+  }, {
+    "slug": "eblaberb",
+    "description": "Contact with nonvenomous toads, initial encounter",
+    "scientificName": "Kemmer, Hodkiewicz and Bauch",
+    "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJXSURBVDjLlZDhS1NhFIeF/oJBEK5ISiIJsaxkTAQTR8wSacY0xdlmbZqkTZ3cmmKprU3naltOd2u5UtFSAiuSaAUVGEKDvphtXuVu79xttfB7Ef16FwRhG+mH8+H9Hc7zPuekAUj7u9omQ2ieIGj0hqB1B76s76+vf4KmCeFh3wzBxekYVGykYdMALbsEtZsfrR+NQ+mK5m8KUOchUNk/vqlk41srB6MosxLDhgHqkdhAw/AilKb3/YrO+cKqQQK5OTS2IYDKE9uvcQZQ3u0vSrz1r7T3au/3obh3Zf6/gGp3dEjpJFCYPuC4Tdimf33Wa39ngfVtLxS3ulHuKdkid1RFi52EOWInvgIb8eVbyZTUHNYlPWLj89M2y9wVzC7PoPNZO446rn8/NrQKzVgMBVaCmhEBFx58RgW7igM9vC6pVvWkot842wL73CyUtwVox2OQ9hFLopd3lbdovAJOuaPY17HCpNytxFH0rfXxC9TejUHS8/JnnokXJfKcLp7VUIsyZxh7GE6XajhaaJJCYszFQeNl5Fxy/aC6vuwuHiecEVx7EkcWs4yMVk6U0kBiDouorq+Cqp50/db172W4qTN3BDTRlXbqg/6kR/xTuT28v4oVoBxeRVYHxySyXQaOKR0Io8QaxvbzASYlgOrKZDYCy9OvyDYuI9PAiajubvrrSsu4gMM0E9cHZCkBVFdXeiOM3kdxlDkiyGxbQpZhCXJLCPrRT6i5GcGhdg7iukVZUgC9rojqshn6IHY0BxO6fvG5AEN/ZcTaxTU6uJZet8CmqxdEvwDWpa/ASC8BSAAAAABJRU5ErkJggg==",
+    "type": "control-manejo",
+    "name": "Wild boar"
+  }, {
+    "slug": "palyutinc",
+    "description": "Displaced segmental fracture of shaft of radius, right arm, subsequent encounter for open fracture type I or II with nonunion",
+    "scientificName": "Renner Inc",
+    "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIsSURBVDjLpZNNSFRRGIafc2fGP3Iaw58SSVyYJRHGCJUVtGldJLZoUS3atIqkdYStwkWLWhjiJghCpIWRLSKMQENFC/uhhsixn0HLTFPn3uvc+30tprlOIVH0wuEsDuf53vc73zGqyv8oDHD6+tPzQC1wAIiDKopBFMsyWAZEBPFZiIT1bUNNtBlRLrRuN6gqp65NdOs/6krvK1XVrAPgIEDP0Hxg7U/BzuzfxOv3C24QAdHNucP6ykIAjFn/8ptZFwDbyRQEAFUtyVVNfHb/qnnq+2YNIBrOWVtPK19GWZweoGpXO6GCaNa0L+QDDEDbpYc4IojCvcuHmUotgjjou9vEqltITvZiVbdRV70RFR8AKwvI0ubsDHt2VDFve0H1yMIg0co40S278WYeIctT2QjeL4Bsz5ccn4wqaTcLUDvFyvQApeUx/O/9VDaeYDXZh4qHiLcGMD8duG4GO+PjOxlQJfOhn/L6I+BMMHrzFhtiNu6nERanh1FvNc9B3qvnJnt5ZoJCWaK0LI24U6CCvzxG3aF2Pj65QcSk1wDiSUC4P5QkbITUWA+xrU1IehIVm3hrA7KaoqgoQbRmL83FYxoAfJEkwPOuo7zoPsaDcyGKyuopKZ1Dva9gQozfSQCCOAkqttXSFBnRxx07G42qcvzi4FVV3aaq+xApO1vRScvJLkJWEvW+/TbYFqHiBmZfPiNxt6PPrPedhzvjc+pLiYqiInlLgx0RVHX8BxTzXjKQ0/OBAAAAAElFTkSuQmCC",
+    "type": "fertilizantes",
+    "name": "Goat, mountain"
+  }, {
+    "slug": "ghuetsond",
+    "description": "Nondisplaced fracture of lunate [semilunar], unspecified wrist, sequela",
+    "scientificName": "Okuneva, Tillman and Hand",
+    "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAGvSURBVDjLpZO7alZREEbXiSdqJJDKYJNCkPBXYq12prHwBezSCpaidnY+graCYO0DpLRTQcR3EFLl8p+9525xgkRIJJApB2bN+gZmqCouU+NZzVef9isyUYeIRD0RTz482xouBBBNHi5u4JlkgUfx+evhxQ2aJRrJ/oFjUWysXeG45cUBy+aoJ90Sj0LGFY6anw2o1y/mK2ZS5pQ50+2XiBbdCvPk+mpw2OM/Bo92IJMhgiGCox+JeNEksIC11eLwvAhlzuAO37+BG9y9x3FTuiWTzhH61QFvdg5AdAZIB3Mw50AKsaRJYlGsX0tymTzf2y1TR9WwbogYY3ZhxR26gBmocrxMuhZNE435FtmSx1tP8QgiHEvj45d3jNlONouAKrjjzWaDv4CkmmNu/Pz9CzVh++Yd2rIz5tTnwdZmAzNymXT9F5AtMFeaTogJYkJfdsaaGpyO4E62pJ0yUCtKQFxo0hAT1JU2CWNOJ5vvP4AIcKeao17c2ljFE8SKEkVdWWxu42GYK9KE4c3O20pzSpyyoCx4v/6ECkCTCqccKorNxR5uSXgQnmQkw2Xf+Q+0iqQ9Ap64TwAAAABJRU5ErkJggg==",
+    "type": "cultivos",
+    "name": "Lechwe, kafue flats"
+  }, {
+    "slug": "aarnaudine",
+    "description": "Encounter for genetic testing of female for procreative management",
+    "scientificName": "Strosin Inc",
+    "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJISURBVDjLzZNdSBNQHMV98lHovfcSbS7NkshK0zSXKbqmtTHSLTUt1OVHEaUUis6H5kul4QeCIpig+IFFUEIo9jUttWJoyUAJbbvpcjrdfl3tpaAs6qUL5+XCOfec//9cP8DvX+D3fwj4LhVpJT5JiA14i03Ca8oX6xfyxNq5bOExGsSqXi9W0k8Jd6paLB9PWnAdPabbFJAEjYSL+wMwNARjY2CzweQk3sePWGhtxdHSwmJzM866euwWC/ZrZSwdPOJajIhM2hB4TsNd6OmBjg6YmIDRUejsxFtcjD0nh1mjEYfBwLxOx4vERN5WVWHLL0Ts3mffEAjxlZie+qorQb7GzAybZ3AQr1rNrErFx4QEPktMR0fzpqKCaWMWImTvnDNwt2ZzBjLvNpm331teBt3dMDcHVis+rZYFSXRKEWd8PFOVlbzPMCIUe6YcO5XKH7awlpMV4MnM7FsvLYXhYRgfxyeti9hYXHFxzJvNfJBkZ3DYlGOHYtdP17ii1QW4NWl9npLSbwJyBq6oKFZqajj/8AzZ/ToyutLQtafwyx4sn0gO+BKverB65Sq+9nbWqqtxFJg426ulbbKBltd1pDaq2LJIS4djti/uP2RbNRXhlmSZ163vUNP06hZ11lq0TanE1ERGbNlEERoRJPOO3LiZ6Na3pXgu9uZy+6WF2mdmCrpyOVAe7g6/rBz4bVVPtyX7S8u2vHsGLCNVmIeuk16fQliJ4p0iP9D/jzsvLY/pGk+iuZNMaFGw9a8+k7Q8oiwMevL93Ve6KsnKrbmJHAAAAABJRU5ErkJggg==",
+    "type": "control-manejo",
+    "name": "Monster, gila"
   }
 ]
